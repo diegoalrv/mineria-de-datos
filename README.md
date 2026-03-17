@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/<usuario>/mineria-de-datos.git
+   git clone https://github.com/diegoalrv/mineria-de-datos.git
    cd mineria-de-datos
    ```
 
@@ -128,7 +128,6 @@ pip install -r requirements.txt
 ## 👨‍🏫 Información del curso
 
 **Universidad:** Universidad Técnica Federico Santa María
-**Departamento:** Electrotecnia e Informática
 
 ---
 
