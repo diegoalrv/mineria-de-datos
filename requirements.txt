@@ -1,0 +1,34 @@
+# notebooks
+jupyter
+notebook
+ipykernel
+
+# core data science
+numpy
+pandas
+pyarrow
+duckdb
+sqlalchemy
+
+# visualization
+matplotlib
+seaborn
+plotly
+
+# machine learning
+scikit-learn
+scipy
+
+# data utilities
+tqdm
+joblib
+
+# data formats
+openpyxl
+xlrd
+
+# web / APIs
+requests
+
+# optional but useful
+statsmodels
