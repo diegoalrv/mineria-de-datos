@@ -29,9 +29,6 @@ build/
 *.key
 *.crt
 
-lab08/
-lab09/
-lab10/
 lab11/
 lab12/
 lab13/
